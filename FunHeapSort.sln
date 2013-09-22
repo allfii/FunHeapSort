@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunHeapSort", "FunHeapSort\FunHeapSort.csproj", "{0504C193-8A9E-4FEF-B2A8-D82BAEF0FD34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0504C193-8A9E-4FEF-B2A8-D82BAEF0FD34}.Debug|x86.ActiveCfg = Debug|x86
+		{0504C193-8A9E-4FEF-B2A8-D82BAEF0FD34}.Debug|x86.Build.0 = Debug|x86
+		{0504C193-8A9E-4FEF-B2A8-D82BAEF0FD34}.Release|x86.ActiveCfg = Release|x86
+		{0504C193-8A9E-4FEF-B2A8-D82BAEF0FD34}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
